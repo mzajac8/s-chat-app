@@ -57,4 +57,4 @@ Read more about it here: [https://www.simplechat.support/docs#self-hosted-option
 
 MIT
 
-<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/juliancwirko"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt=""><span style="margin-left:5px">Buy me a beer!</span></a>
+<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/juliancwirko">:beer: <span style="margin-left:5px">Buy me a beer!</span></a>
